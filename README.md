@@ -20,7 +20,3 @@ Link's oficial da placa:<br />
 <br />
 Em breve, estaremos disponibilizando os arquivos STL para o case da placa controladora e um adaptador para o hotend.
 <br />
-<<<<<<< HEAD
-=======
-
->>>>>>> 5187948 (Upload da firmware para placa MKE-Monster8 V2 compatível com a impressora 3d HE3D-EI3)
